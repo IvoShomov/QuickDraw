@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\QuickDraw\QuickDraw\obj\Debug\net6.0\QuickDraw.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\QuickDraw\QuickDraw\obj\Debug\net6.0\QuickDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\QuickDraw\QuickDraw\obj\Debug\net6.0\QuickDraw.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\QuickDraw\QuickDraw\obj\Debug\net6.0\QuickDraw.AssemblyInfo.cs
+C:\Users\User\source\repos\QuickDraw\QuickDraw\obj\Debug\net6.0\QuickDraw.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QuickDraw\QuickDraw\bin\Debug\net6.0\QuickDraw.exe
+C:\Users\User\source\repos\QuickDraw\QuickDraw\bin\Debug\net6.0\QuickDraw.deps.json
+C:\Users\User\source\repos\QuickDraw\QuickDraw\bin\Debug\net6.0\QuickDraw.runtimeconfig.json
+C:\Users\User\source\repos\QuickDraw\QuickDraw\bin\Debug\net6.0\QuickDraw.dll
+C:\Users\User\source\repos\QuickDraw\QuickDraw\bin\Debug\net6.0\QuickDraw.pdb
+C:\Users\User\source\repos\QuickDraw\QuickDraw\obj\Debug\net6.0\QuickDraw.dll
+C:\Users\User\source\repos\QuickDraw\QuickDraw\obj\Debug\net6.0\refint\QuickDraw.dll
+C:\Users\User\source\repos\QuickDraw\QuickDraw\obj\Debug\net6.0\QuickDraw.pdb
+C:\Users\User\source\repos\QuickDraw\QuickDraw\obj\Debug\net6.0\QuickDraw.genruntimeconfig.cache
+C:\Users\User\source\repos\QuickDraw\QuickDraw\obj\Debug\net6.0\ref\QuickDraw.dll
